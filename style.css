@@ -52,6 +52,7 @@ img{
     font-weight: 700;
     font-size: 22px;
     text-align: center;
+    color: var(--slate-900);
 }
 
 .attribution{
